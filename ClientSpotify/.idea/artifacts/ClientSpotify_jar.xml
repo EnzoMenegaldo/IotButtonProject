@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientSpotify:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientSpotify_jar</output-path>
+    <root id="archive" name="ClientSpotify.jar">
+      <element id="module-output" name="Client" />
+    </root>
+  </artifact>
+</component>
